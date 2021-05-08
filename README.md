@@ -1,5 +1,6 @@
-- Hi, I’m Xiaomeng Ren, a sophomore in UCI.
-- I’m currently learning data science and quantitative economics as my major.
+- Hi, I’m @xiaomeng0120.
+- I'm a second year college student dual-majoring in data science and quantitative economics in UCI
+- I’m currently learning data analysis and wish to do some research based on that.
 - Can reach me by xiaomer@uci.edu.
 
 <!---
