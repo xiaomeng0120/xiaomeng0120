@@ -1,5 +1,5 @@
 - Hi, I’m @xiaomeng0120.
-- I'm a third year college student dual-majoring in data science and quantitative economics in UCI
+- I'm a forth year college student dual-majoring in data science and quantitative economics in UCI
 - I’m currently learning data analysis and wish to do some research based on that.
 - Can reach me by xiaomer@uci.edu.
 
