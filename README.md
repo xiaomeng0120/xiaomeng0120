@@ -1,5 +1,5 @@
 - Hi, I’m @xiaomeng0120.
-- I'm a first graduate student majoring in financial engineering in NYU Tandon.
+- I'm a second year graduate student majoring in financial engineering in NYU Tandon.
 - Graduated in UCI in 2023, Major in Data Science & Quantitative Economics (B.A & B.S.)
 - I’m currently learning data analysis for financial direction and wish to do some research based on that.
 - Can reach me by xiaomer@uci.edu or xr2083@nyu.edu.
